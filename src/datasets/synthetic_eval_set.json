@@ -1,0 +1,897 @@
+[
+    {
+        "query": "What specific next-to-leading order perturbative contributions and all-orders resummation techniques are employed to calculate prompt diphoton production cross sections at Tevatron and LHC energies?",
+        "correct_paper_id": "0704.0001",
+        "original_title": "Calculation of prompt diphoton production cross sections at Tevatron and\n  LHC energies"
+    },
+    {
+        "query": "How can I learn about the advanced QCD calculation of diphoton production at hadron colliders for my research project?",
+        "correct_paper_id": "0704.0001",
+        "original_title": "Calculation of prompt diphoton production cross sections at Tevatron and\n  LHC energies"
+    },
+    {
+        "query": "What is the explicit form of the drag coefficient derived from the dark matter field fluid model that governs the secular decay of the Earth-Moon orbital semi-major axis?",
+        "correct_paper_id": "0704.0003",
+        "original_title": "The evolution of the Earth-Moon system based on the dark matter field\n  fluid model"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on modeling Earth-Moon orbital evolution using dark matter field fluid theories.",
+        "correct_paper_id": "0704.0003",
+        "original_title": "The evolution of the Earth-Moon system based on the dark matter field\n  fluid model"
+    },
+    {
+        "query": "What bijective construction between unlabeled acyclic single\u2011source automata and marked lattice paths is employed to evaluate the determinant of Stirling cycle numbers in this paper?",
+        "correct_paper_id": "0704.0004",
+        "original_title": "A determinant of Stirling cycle numbers counts unlabeled acyclic\n  single-source automata"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who specializes in counting unlabeled acyclic single\u2011source automata using Stirling cycle numbers and lattice path techniques.",
+        "correct_paper_id": "0704.0004",
+        "original_title": "A determinant of Stirling cycle numbers counts unlabeled acyclic\n  single-source automata"
+    },
+    {
+        "query": "What is the exact form of the correction to the Bose enhancement factor used to quantify the bosonic character of Cooper pairs in the three-dimensional uniform gas studied in this paper?",
+        "correct_paper_id": "0704.0006",
+        "original_title": "Bosonic characters of atomic Cooper pairs across resonance"
+    },
+    {
+        "query": "How can I find a mentor who works on quantifying bosonic properties of Cooper pairs across the BCS\u2013BEC crossover using Feshbach resonances?",
+        "correct_paper_id": "0704.0006",
+        "original_title": "Bosonic characters of atomic Cooper pairs across resonance"
+    },
+    {
+        "query": "What is the precise limiting procedure used in this paper to derive the polymer representation from the Schr\u00f6dinger theory, and how does it differ from other discretization schemes in loop quantum cosmology?",
+        "correct_paper_id": "0704.0007",
+        "original_title": "Polymer Quantum Mechanics and its Continuum Limit"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in polymer quantum mechanics and its continuum limit\u2014who can mentor me in this niche area?",
+        "correct_paper_id": "0704.0007",
+        "original_title": "Polymer Quantum Mechanics and its Continuum Limit"
+    },
+    {
+        "query": "What is the specific algorithmic formulation used in the paper to solve for shock and ramp compression when the material model is given as a general equation of state, and how does it generalize the Rankine\u2013Hugoniot relations for composite deformation paths?",
+        "correct_paper_id": "0704.0008",
+        "original_title": "Numerical solution of shock and ramp compression for general material\n  properties"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in numerical methods for shock and ramp compression in materials science\u2014who would be a good contact in this niche?",
+        "correct_paper_id": "0704.0008",
+        "original_title": "Numerical solution of shock and ramp compression for general material\n  properties"
+    },
+    {
+        "query": "What specific color\u2013color selection criteria and photometric cuts did the authors use to distinguish bona fide YSOs from extragalactic contaminants in the Serpens field, and how were these thresholds derived from the combined IRAC and MIPS data?",
+        "correct_paper_id": "0704.0009",
+        "original_title": "The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The\n  Serpens YSO Population As Observed With IRAC and MIPS"
+    },
+    {
+        "query": "I\u2019m a graduate student studying young stellar objects in nearby clouds; can you recommend a mentor who has expertise in using Spitzer IRAC/MIPS photometry to identify and classify YSOs in Serpens?",
+        "correct_paper_id": "0704.0009",
+        "original_title": "The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The\n  Serpens YSO Population As Observed With IRAC and MIPS"
+    },
+    {
+        "query": "What is the precise method used in this paper to compute the isometric and lattice dimensions of finite partial cubes resulting from the expansion and contraction processes?",
+        "correct_paper_id": "0704.0010",
+        "original_title": "Partial cubes: structures, characterizations, and constructions"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in the theory of partial cubes and their construction via Cartesian products and pasting operations.",
+        "correct_paper_id": "0704.0010",
+        "original_title": "Partial cubes: structures, characterizations, and constructions"
+    },
+    {
+        "query": "What linear relations among Fourier coefficients of half-integral weight modular forms on \u0393\u2080(4N) are employed to prove the p-adic limit for p=2,3,5,7 in this paper?",
+        "correct_paper_id": "0704.0013",
+        "original_title": "$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral\n  Weight"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in p-adic properties of weakly holomorphic modular forms of half-integral weight\u2014who can guide me on this topic?",
+        "correct_paper_id": "0704.0013",
+        "original_title": "$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral\n  Weight"
+    },
+    {
+        "query": "What is the precise construction of the chain map from the cyclic bar complex of differential forms to the loop space homology using Chen's iterated integrals as presented in this paper?",
+        "correct_paper_id": "0704.0014",
+        "original_title": "Iterated integral and the loop product"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in applying Chen's iterated integrals to string topology and the loop product.",
+        "correct_paper_id": "0704.0014",
+        "original_title": "Iterated integral and the loop product"
+    },
+    {
+        "query": "What specific algorithmic steps does this paper introduce for evaluating pure spinor superspace integrals in the computation of one-loop and two-loop massless four-point amplitudes with Ramond states?",
+        "correct_paper_id": "0704.0015",
+        "original_title": "Fermionic superstring loop amplitudes in the pure spinor formalism"
+    },
+    {
+        "query": "I am a graduate student interested in learning about computing fermionic superstring loop amplitudes using the pure spinor formalism\u2014who can mentor me in this niche area?",
+        "correct_paper_id": "0704.0015",
+        "original_title": "Fermionic superstring loop amplitudes in the pure spinor formalism"
+    },
+    {
+        "query": "What is the explicit form of the non-spectator contribution matrix elements derived using the non-relativistic harmonic oscillator model for the doubly charmed baryons in this study?",
+        "correct_paper_id": "0704.0016",
+        "original_title": "Lifetime of doubly charmed baryons"
+    },
+    {
+        "query": "I'm looking for a research mentor who specializes in calculating lifetimes of doubly charmed baryons using quark-level non-spectator contributions and harmonic oscillator models.",
+        "correct_paper_id": "0704.0016",
+        "original_title": "Lifetime of doubly charmed baryons"
+    },
+    {
+        "query": "What specific spectroscopic technique and data reduction steps were employed to isolate the spin\u2011modulated radial velocity signatures at ~500\u2013600\u202fkm\u202fs\u207b\u00b9 in EX\u202fHya\u2019s quiescent state?",
+        "correct_paper_id": "0704.0017",
+        "original_title": "Spectroscopic Observations of the Intermediate Polar EX Hydrae in\n  Quiescence"
+    },
+    {
+        "query": "I'm a graduate student studying intermediate polars; how can I use spin\u2011Doppler tomography to investigate accretion curtains like in EX\u202fHya?",
+        "correct_paper_id": "0704.0017",
+        "original_title": "Spectroscopic Observations of the Intermediate Polar EX Hydrae in\n  Quiescence"
+    },
+    {
+        "query": "What is the explicit form of the exponential regulator used in the paper to compute the Callias index in all odd dimensions?",
+        "correct_paper_id": "0704.0018",
+        "original_title": "In quest of a generalized Callias index theorem"
+    },
+    {
+        "query": "I\u2019m studying generalized Callias index theorems and looking for a mentor with expertise in exponential regulators and loop-space index problems.",
+        "correct_paper_id": "0704.0018",
+        "original_title": "In quest of a generalized Callias index theorem"
+    },
+    {
+        "query": "What is the explicit form of the recurrence relation derived from the Gr\u00f6bner basis for approximating the extinction probability in the one-dimensional contact process?",
+        "correct_paper_id": "0704.0019",
+        "original_title": "Approximation for extinction probability of the contact process based on\n  the Gr\\\"obner basis"
+    },
+    {
+        "query": "How can I find a mentor who specializes in using Gr\u00f6bner basis techniques to analyze stochastic epidemic models such as the contact process?",
+        "correct_paper_id": "0704.0019",
+        "original_title": "Approximation for extinction probability of the contact process based on\n  the Gr\\\"obner basis"
+    },
+    {
+        "query": "What is the specific unfolding technique employed to correct the q\u00b2 distribution of D\u2070 \u2192 K\u207b e\u207a \u03bd\u2091 in this analysis?",
+        "correct_paper_id": "0704.0020",
+        "original_title": "Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays"
+    },
+    {
+        "query": "How can I find a mentor who specializes in model\u2011independent measurements of semileptonic charm decays?",
+        "correct_paper_id": "0704.0020",
+        "original_title": "Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays"
+    },
+    {
+        "query": "What specific stochastic simulation algorithm and parameter regime were used to demonstrate coherent catalytic turnover cycles in the allosterically regulated enzyme array described in the paper?",
+        "correct_paper_id": "0704.0021",
+        "original_title": "Molecular Synchronization Waves in Arrays of Allosterically Regulated\n  Enzymes"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying molecular synchronization waves in enzyme systems\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0021",
+        "original_title": "Molecular Synchronization Waves in Arrays of Allosterically Regulated\n  Enzymes"
+    },
+    {
+        "query": "What is the explicit form of the closed\u2010form approximation to the stochastic flow in the Lie algebra used in the stochastic Munthe\u2013Kaas integrator presented in this paper?",
+        "correct_paper_id": "0704.0022",
+        "original_title": "Stochastic Lie group integrators"
+    },
+    {
+        "query": "I\u2019m a PhD student interested in stochastic Lie group integrators for rigid body dynamics\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0022",
+        "original_title": "Stochastic Lie group integrators"
+    },
+    {
+        "query": "What specific numerical techniques and boundary conditions from the Carlsson & Stein dynamic chromosphere model were employed to predict millimeter emission sensitivity between 0.8 and 5.0\u202fmm in this study?",
+        "correct_paper_id": "0704.0023",
+        "original_title": "ALMA as the ideal probe of the solar chromosphere"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying solar chromosphere dynamics with ALMA; who could mentor me in this niche?",
+        "correct_paper_id": "0704.0023",
+        "original_title": "ALMA as the ideal probe of the solar chromosphere"
+    },
+    {
+        "query": "How does the numerical simulation model the effective dipolar pinning at stripe edges in the nonlinear regime of quasi-2D spin-wave waveforms?",
+        "correct_paper_id": "0704.0024",
+        "original_title": "Formation of quasi-solitons in transverse confined ferromagnetic film\n  media"
+    },
+    {
+        "query": "I am a graduate student interested in quasi-2D spin-wave solitons in longitudinally magnetized ferrimagnetic stripes\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0024",
+        "original_title": "Formation of quasi-solitons in transverse confined ferromagnetic film\n  media"
+    },
+    {
+        "query": "What is the explicit stochastic optimization scheme used to perform unbiased analytic continuation of the Matsubara Green function to real frequencies in the exact diagrammatic Monte Carlo study of the Fr\u00f6hlich polaron?",
+        "correct_paper_id": "0704.0025",
+        "original_title": "Spectroscopic Properties of Polarons in Strongly Correlated Systems by\n  Exact Diagrammatic Monte Carlo Method"
+    },
+    {
+        "query": "How can I find a mentor who specializes in applying exact diagrammatic Monte Carlo methods to study polarons in strongly correlated electron-phonon systems?",
+        "correct_paper_id": "0704.0025",
+        "original_title": "Spectroscopic Properties of Polarons in Strongly Correlated Systems by\n  Exact Diagrammatic Monte Carlo Method"
+    },
+    {
+        "query": "What bit\u2011manipulation recipe does the paper introduce for converting a strut constant S into the corresponding meta\u2011fractal Sky when S is an integer greater than 8 that is not a power of 2?",
+        "correct_paper_id": "0704.0026",
+        "original_title": "Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill\n  Infinite-Dimensional Skies"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on zero\u2011divisors from the Cayley\u2011Dickson process and their applications to scale\u2011free networks and fractal structures.",
+        "correct_paper_id": "0704.0026",
+        "original_title": "Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill\n  Infinite-Dimensional Skies"
+    },
+    {
+        "query": "What exact form of the electron\u2013phonon coupling Hamiltonian is used to model the interaction between the \u0393\u2011point optical phonon and the 0\u2192(+1) and (\u22121)\u21920 Landau level transitions in the presence of a perpendicular magnetic field?",
+        "correct_paper_id": "0704.0027",
+        "original_title": "Filling-Factor-Dependent Magnetophonon Resonance in Graphene"
+    },
+    {
+        "query": "I\u2019m studying magnetophonon resonance in graphene and want a mentor who specializes in the filling\u2011factor dependence of the G\u2011band Raman response under high magnetic fields.",
+        "correct_paper_id": "0704.0027",
+        "original_title": "Filling-Factor-Dependent Magnetophonon Resonance in Graphene"
+    },
+    {
+        "query": "What is the precise statement and proof technique of the Pfaffian and Hafnian versions of Lieb's inequalities presented in this paper?",
+        "correct_paper_id": "0704.0028",
+        "original_title": "Pfaffians, hafnians and products of real linear functionals"
+    },
+    {
+        "query": "I am a graduate student interested in the real linear polarization constant problem; who can mentor me on applying Pfaffian and Hafnian inequalities to improve lower bounds on norms of products of linear functionals?",
+        "correct_paper_id": "0704.0028",
+        "original_title": "Pfaffians, hafnians and products of real linear functionals"
+    },
+    {
+        "query": "What simplified model Hamiltonian derived from the Chiral Quark Model is used to determine the intrinsic wave functions of constituent quarks, and how are the resulting Goldstone boson emission transition probabilities calculated?",
+        "correct_paper_id": "0704.0029",
+        "original_title": "Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin\n  Structure within Chiral Quark Model"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying flavor symmetry breaking in nucleons using the Chiral Quark Model\u2014who can mentor me in this niche area?",
+        "correct_paper_id": "0704.0029",
+        "original_title": "Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin\n  Structure within Chiral Quark Model"
+    },
+    {
+        "query": "What specific DMFT implementation details are used to capture the crossover from band to Mott behavior when tuning the phonon energy in the studied electron-phonon model?",
+        "correct_paper_id": "0704.0030",
+        "original_title": "Tuning correlation effects with electron-phonon interactions"
+    },
+    {
+        "query": "How can I find a PhD advisor who works on tuning correlation effects with electron-phonon interactions using DMFT?",
+        "correct_paper_id": "0704.0030",
+        "original_title": "Tuning correlation effects with electron-phonon interactions"
+    },
+    {
+        "query": "What specific crystal lattice parameters and bending angles were used to achieve a 90% trapping efficiency for diffractively scattered 7\u202fTeV protons with divergences 100\u00d7 the critical angle, and how does the simulated phase\u2011space preservation accuracy of 0.1\u202f\u00b5rad depend on the crystal\u2019s channeling potential profile?",
+        "correct_paper_id": "0704.0031",
+        "original_title": "Crystal channeling of LHC forward protons with preserved distribution in\n  phase space"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in using crystal channeling to steer forward protons at the LHC; who could mentor me in designing a crystal lattice that preserves the full (x,\u202fx\u2032,\u202fy,\u202fy\u2032,\u202fE) phase\u2011space distribution with high efficiency?",
+        "correct_paper_id": "0704.0031",
+        "original_title": "Crystal channeling of LHC forward protons with preserved distribution in\n  phase space"
+    },
+    {
+        "query": "What are the exact analytic expressions for the NSI-induced resonant conversion probabilities derived in the three-neutrino framework for the inner deleptonised layers of a supernova?",
+        "correct_paper_id": "0704.0032",
+        "original_title": "Probing non-standard neutrino interactions with supernova neutrinos"
+    },
+    {
+        "query": "How can I study non-standard neutrino interactions using supernova neutrino data in a Megaton water Cherenkov detector?",
+        "correct_paper_id": "0704.0032",
+        "original_title": "Probing non-standard neutrino interactions with supernova neutrinos"
+    },
+    {
+        "query": "What is the precise mathematical expression for the error bound of the discrete dipole approximation derived in this paper, specifically the linear and quadratic terms in the dipole size d for cubically shaped scatterers?",
+        "correct_paper_id": "0704.0033",
+        "original_title": "Convergence of the discrete dipole approximation. I. Theoretical\n  analysis"
+    },
+    {
+        "query": "I am a graduate student researching the convergence of the discrete dipole approximation and I am looking for a mentor who specializes in this niche.",
+        "correct_paper_id": "0704.0033",
+        "original_title": "Convergence of the discrete dipole approximation. I. Theoretical\n  analysis"
+    },
+    {
+        "query": "What quantum measurement framework is employed in the paper to model the emergence of adaptive mutants?",
+        "correct_paper_id": "0704.0034",
+        "original_title": "Origin of adaptive mutants: a quantum measurement?"
+    },
+    {
+        "query": "I'm a biology student interested in quantum effects on mutation rates, who can mentor me in this niche?",
+        "correct_paper_id": "0704.0034",
+        "original_title": "Origin of adaptive mutants: a quantum measurement?"
+    },
+    {
+        "query": "What is the mathematical form of the extrapolation function used to correct discretization errors in the discrete dipole approximation as described in the paper?",
+        "correct_paper_id": "0704.0035",
+        "original_title": "Convergence of the discrete dipole approximation. II. An extrapolation\n  technique to increase the accuracy"
+    },
+    {
+        "query": "I am a graduate student interested in improving the accuracy of the discrete dipole approximation through extrapolation techniques\u2014who would be a good mentor or research group to approach in this niche?",
+        "correct_paper_id": "0704.0035",
+        "original_title": "Convergence of the discrete dipole approximation. II. An extrapolation\n  technique to increase the accuracy"
+    },
+    {
+        "query": "What analytical technique does the paper use to prove the upper bound of 2n-1 positive steady states in a general multisite phosphorylation-dephosphorylation cycle?",
+        "correct_paper_id": "0704.0036",
+        "original_title": "A remark on the number of steady states in a multiple futile cycle"
+    },
+    {
+        "query": "I'm a graduate student interested in studying bistability in multisite phosphorylation cycles\u2014who can mentor me on this topic?",
+        "correct_paper_id": "0704.0036",
+        "original_title": "A remark on the number of steady states in a multiple futile cycle"
+    },
+    {
+        "query": "What optimization techniques does the authors' DDA implementation employ to enable parallelization across a 64\u2011processor cluster for particles with size parameter x up to 160?",
+        "correct_paper_id": "0704.0037",
+        "original_title": "The discrete dipole approximation for simulation of light scattering by\n  particles much larger than the wavelength"
+    },
+    {
+        "query": "I'm a graduate student interested in simulating light scattering by particles much larger than the wavelength; who can mentor me on using the optimized DDA software described in this paper?",
+        "correct_paper_id": "0704.0037",
+        "original_title": "The discrete dipole approximation for simulation of light scattering by\n  particles much larger than the wavelength"
+    },
+    {
+        "query": "What are the specific integral equation formulations and discretization strategies introduced in this paper for improving the accuracy of the discrete dipole approximation?",
+        "correct_paper_id": "0704.0038",
+        "original_title": "The discrete dipole approximation: an overview and recent developments"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in learning about advanced light\u2011scattering techniques\u2014who can mentor me in the discrete dipole approximation and its recent numerical developments?",
+        "correct_paper_id": "0704.0038",
+        "original_title": "The discrete dipole approximation: an overview and recent developments"
+    },
+    {
+        "query": "What is the precise construction of the conditionally free R-transform using multilinear function series in the presence of amalgamated conditional expectations?",
+        "correct_paper_id": "0704.0040",
+        "original_title": "Multilinear function series in conditionally free probability with\n  amalgamation"
+    },
+    {
+        "query": "I'm a PhD student interested in conditional freeness with amalgamation\u2014who can mentor me on multilinear function series techniques?",
+        "correct_paper_id": "0704.0040",
+        "original_title": "Multilinear function series in conditionally free probability with\n  amalgamation"
+    },
+    {
+        "query": "What is the precise construction of the universal quantum isometry group for a spectral triple satisfying the regularity assumptions, and how does the paper prove its existence within the category of smooth isometric actions by compact quantum groups?",
+        "correct_paper_id": "0704.0041",
+        "original_title": "Quantum Group of Isometries in Classical and Noncommutative Geometry"
+    },
+    {
+        "query": "I'm a graduate student interested in learning about quantum groups acting as isometries on noncommutative manifolds\u2014who can guide me through the theory of quantum isometry groups and their applications to noncommutative tori?",
+        "correct_paper_id": "0704.0041",
+        "original_title": "Quantum Group of Isometries in Classical and Noncommutative Geometry"
+    },
+    {
+        "query": "What is the precise mathematical construction that combines quantum semantics with fuzzy truth-values to achieve system coherence in the proposed framework?",
+        "correct_paper_id": "0704.0042",
+        "original_title": "General System theory, Like-Quantum Semantics and Fuzzy Sets"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in applying quantum logic and fuzzy set theory to general systems theory.",
+        "correct_paper_id": "0704.0042",
+        "original_title": "General System theory, Like-Quantum Semantics and Fuzzy Sets"
+    },
+    {
+        "query": "What is the precise algorithmic procedure for constructing nonequilibrium entropy limiters in lattice Boltzmann methods as described in this paper?",
+        "correct_paper_id": "0704.0043",
+        "original_title": "Nonequilibrium entropy limiters in lattice Boltzmann methods"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in designing entropy-based limiters for lattice Boltzmann simulations of shock waves and high Reynolds number flows.",
+        "correct_paper_id": "0704.0043",
+        "original_title": "Nonequilibrium entropy limiters in lattice Boltzmann methods"
+    },
+    {
+        "query": "What is the explicit form of the linear kinetic equation governing the passive cascade of compressive fluctuations along the moving field lines in the inertial range of this gyrokinetic framework?",
+        "correct_paper_id": "0704.0044",
+        "original_title": "Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in\n  magnetized weakly collisional plasmas"
+    },
+    {
+        "query": "I\u2019m a graduate student researching plasma turbulence in the solar wind and I\u2019m looking for a mentor who specializes in gyrokinetic cascade theory.",
+        "correct_paper_id": "0704.0044",
+        "original_title": "Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in\n  magnetized weakly collisional plasmas"
+    },
+    {
+        "query": "What is the explicit form of the Whitham modulation equations derived for the variable\u2011coefficient KdV equation with Chezy bottom friction and how do they predict the amplitude evolution of the leading solitary wave in an undular bore?",
+        "correct_paper_id": "0704.0045",
+        "original_title": "Evolution of solitary waves and undular bores in shallow-water flows\n  over a gradual slope with bottom friction"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying undular bores over variable topography with bottom friction\u2014who can mentor me in applying Whitham averaging to perturbed KdV equations?",
+        "correct_paper_id": "0704.0045",
+        "original_title": "Evolution of solitary waves and undular bores in shallow-water flows\n  over a gradual slope with bottom friction"
+    },
+    {
+        "query": "What is the precise analytic proof technique used in this paper to establish that the limit of the entropy of certain mixtures equals the relative entropy for density matrices, and how does it employ the quantum law of large numbers?",
+        "correct_paper_id": "0704.0046",
+        "original_title": "A limit relation for entropy and channel capacity per unit cost"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in quantum information theory; can you recommend a mentor who specializes in proving limit relations between entropy and relative entropy for quantum channels?",
+        "correct_paper_id": "0704.0046",
+        "original_title": "A limit relation for entropy and channel capacity per unit cost"
+    },
+    {
+        "query": "What specific architecture and training procedure of the general regression neural network does the paper use to map sensor antenna outputs to acoustic emission source locations, and how does it incorporate sound velocity and attenuation parameters into the learning process?",
+        "correct_paper_id": "0704.0047",
+        "original_title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part I"
+    },
+    {
+        "query": "I'm a student interested in non\u2011destructive testing of aircraft structures using acoustic emission; who can mentor me on applying neural\u2011network based source localization techniques?",
+        "correct_paper_id": "0704.0047",
+        "original_title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part I"
+    },
+    {
+        "query": "What grid resolution and coherence length parameters were used in the coherent pre\u2011processing unit to achieve secure detection of white dwarf binaries in the MLDC data?",
+        "correct_paper_id": "0704.0048",
+        "original_title": "Inference on white dwarf binary systems using the first round Mock LISA\n  Data Challenges data sets"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in applying Markov Chain Monte Carlo techniques to LISA white dwarf binary data\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0048",
+        "original_title": "Inference on white dwarf binary systems using the first round Mock LISA\n  Data Challenges data sets"
+    },
+    {
+        "query": "What is the precise recursive construction used in the algorithm to enumerate all smooth Fano d-polytopes for a given dimension d?",
+        "correct_paper_id": "0704.0049",
+        "original_title": "An algorithm for the classification of smooth Fano polytopes"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in computational classification of smooth Fano polytopes and can guide me through algorithmic techniques in higher dimensions.",
+        "correct_paper_id": "0704.0049",
+        "original_title": "An algorithm for the classification of smooth Fano polytopes"
+    },
+    {
+        "query": "What specific ICA algorithm and time\u2011delay estimation technique were employed to separate and locate two simultaneous acoustic emission sources on the aluminum band specimen described in Part\u202fII of the paper?",
+        "correct_paper_id": "0704.0050",
+        "original_title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part II"
+    },
+    {
+        "query": "I\u2019m a graduate student researching acoustic emission source localization with ICA and need a mentor who has experience in blind source separation for structural health monitoring of aircraft frames.",
+        "correct_paper_id": "0704.0050",
+        "original_title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part II"
+    },
+    {
+        "query": "What specific graphical representation technique does the paper introduce to enable direct visualization of quantum state teleportation, and how does it differ from conventional circuit diagrams?",
+        "correct_paper_id": "0704.0051",
+        "original_title": "Visualizing Teleportation"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in intuitive, visual teaching methods for explaining quantum teleportation to non-experts.",
+        "correct_paper_id": "0704.0051",
+        "original_title": "Visualizing Teleportation"
+    },
+    {
+        "query": "What is the precise analytic continuation procedure used to convert the self\u2011adjoint semigroups arising from Euclidean isometries into one\u2011parameter unitary groups on the associated Lorentzian manifold in the context of static scalar quantum field theory?",
+        "correct_paper_id": "0704.0052",
+        "original_title": "Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries"
+    },
+    {
+        "query": "I want to learn how to construct unitary representations of isometry groups for quantum fields on static curved spacetimes\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0052",
+        "original_title": "Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries"
+    },
+    {
+        "query": "What global intrinsic condition characterizes a $C^{h}$-recurrent Finsler manifold in the framework introduced in this paper?",
+        "correct_paper_id": "0704.0053",
+        "original_title": "A Global Approach to the Theory of Special Finsler Manifolds"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in global approaches to special Finsler manifolds such as Berwald, Landesberg, and $P$-reducible spaces.",
+        "correct_paper_id": "0704.0053",
+        "original_title": "A Global Approach to the Theory of Special Finsler Manifolds"
+    },
+    {
+        "query": "What van der Waals density functional parameters were employed to compute the interlayer binding energy and formation energy of potassium\u2011intercalated graphite in this study?",
+        "correct_paper_id": "0704.0055",
+        "original_title": "Potassium intercalation in graphite: A van der Waals density-functional\n  study"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on first\u2011principles studies of alkali\u2011metal intercalation in layered materials\u2014who would be a good fit?",
+        "correct_paper_id": "0704.0055",
+        "original_title": "Potassium intercalation in graphite: A van der Waals density-functional\n  study"
+    },
+    {
+        "query": "What zero-temperature computational protocol did the authors use to evaluate the lattice sums for the eleven candidate crystal structures in the Gaussian-core nematic model?",
+        "correct_paper_id": "0704.0056",
+        "original_title": "Phase diagram of Gaussian-core nematics"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on phase diagrams of anisotropic soft-core particles, especially Gaussian-core nematics.",
+        "correct_paper_id": "0704.0056",
+        "original_title": "Phase diagram of Gaussian-core nematics"
+    },
+    {
+        "query": "What is the specific form of the impurity solver used in the single-site DMFT calculations for the two-orbital model with two electrons or holes in the e_g shell?",
+        "correct_paper_id": "0704.0057",
+        "original_title": "High-spin to low-spin and orbital polarization transitions in\n  multiorbital Mott systems"
+    },
+    {
+        "query": "Which research group offers mentorship for studying Hund coupling effects in multiorbital Mott systems?",
+        "correct_paper_id": "0704.0057",
+        "original_title": "High-spin to low-spin and orbital polarization transitions in\n  multiorbital Mott systems"
+    },
+    {
+        "query": "What is the specific mathematical formulation of the unitarity-based survival criterion for intelligent life presented in the paper?",
+        "correct_paper_id": "0704.0058",
+        "original_title": "Intelligent Life in Cosmology"
+    },
+    {
+        "query": "I'm looking for a research mentor who studies the implications of the Fermi Paradox for the rarity of intelligent civilizations in cosmology.",
+        "correct_paper_id": "0704.0058",
+        "original_title": "Intelligent Life in Cosmology"
+    },
+    {
+        "query": "How does the methodology in this paper derive the surface gravity of the secondary star from the light curve and single-lined spectroscopic orbit in a tidally circularized, synchronized system?",
+        "correct_paper_id": "0704.0059",
+        "original_title": "The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined\n  Eclipsing Binary HAT-TR-205-013"
+    },
+    {
+        "query": "I'm a student interested in studying single\u2011lined eclipsing binaries with late M\u2011dwarf companions\u2014who would be a good mentor in this niche?",
+        "correct_paper_id": "0704.0059",
+        "original_title": "The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined\n  Eclipsing Binary HAT-TR-205-013"
+    },
+    {
+        "query": "What is the derived expression for the Coulomb excitation cross section that incorporates both retardation effects and Coulomb distortion for intermediate-energy collisions in this study?",
+        "correct_paper_id": "0704.0060",
+        "original_title": "Coulomb excitation of unstable nuclei at intermediate energies"
+    },
+    {
+        "query": "How can I find a mentor who specializes in Coulomb excitation of unstable nuclei at intermediate energies?",
+        "correct_paper_id": "0704.0060",
+        "original_title": "Coulomb excitation of unstable nuclei at intermediate energies"
+    },
+    {
+        "query": "What specific detector configuration and background rejection techniques were employed in the IGEX and Heidelberg\u2013Moscow experiments to achieve the reported sensitivity to 76Ge neutrinoless double beta decay?",
+        "correct_paper_id": "0704.0063",
+        "original_title": "Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in 76Ge neutrinoless double beta decay experiments\u2014who are the leading researchers or groups I could approach for mentorship in this field?",
+        "correct_paper_id": "0704.0063",
+        "original_title": "Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay"
+    },
+    {
+        "query": "What is the explicit form of the superfield expansion that yields the off-shell nilpotent BRST and anti-BRST transformations for the 4D non-Abelian 1-form gauge theory within the (4,2)-dimensional supermanifold formalism?",
+        "correct_paper_id": "0704.0064",
+        "original_title": "Nilpotent symmetry invariance in the superfield formulation: the\n  (non-)Abelian 1-form gauge theories"
+    },
+    {
+        "query": "I'm a graduate student interested in learning how to use superfield techniques to derive BRST symmetries for 4D gauge theories\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0064",
+        "original_title": "Nilpotent symmetry invariance in the superfield formulation: the\n  (non-)Abelian 1-form gauge theories"
+    },
+    {
+        "query": "What combinatorial rule does this paper introduce for computing Littlewood\u2011Richardson polynomials, and how does it ensure manifest positivity in the sense of W. Graham?",
+        "correct_paper_id": "0704.0065",
+        "original_title": "Littlewood-Richardson polynomials"
+    },
+    {
+        "query": "I'm studying equivariant Schubert calculus on Grassmannians\u2014who can guide me on using Littlewood\u2011Richardson polynomials to compute product structures and stability properties?",
+        "correct_paper_id": "0704.0065",
+        "original_title": "Littlewood-Richardson polynomials"
+    },
+    {
+        "query": "What is the precise redefinition of dynamical variables proposed in the paper that resolves the incompatibility between Heisenberg equations and the uniqueness requirement for free scalar, spinor, and vector fields?",
+        "correct_paper_id": "0704.0066",
+        "original_title": "Lagrangian quantum field theory in momentum picture. IV. Commutation\n  relations for free fields"
+    },
+    {
+        "query": "I\u2019m studying free quantum fields and need guidance on how to derive commutation relations that satisfy both Heisenberg equations and vacuum expectations\u2014who can mentor me in this specific approach?",
+        "correct_paper_id": "0704.0066",
+        "original_title": "Lagrangian quantum field theory in momentum picture. IV. Commutation\n  relations for free fields"
+    },
+    {
+        "query": "What analytic expression does the paper derive for the film\u2011height correlation function in the linear surface\u2011diffusion model of SAQD formation?",
+        "correct_paper_id": "0704.0067",
+        "original_title": "Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in linear stability analysis of epitaxial quantum dot self\u2011assembly and can guide me through stochastic modeling of spatial order.",
+        "correct_paper_id": "0704.0067",
+        "original_title": "Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis"
+    },
+    {
+        "query": "What is the simplified proof provided in this paper for the closed-form expression of the $K_i(z)$ functions?",
+        "correct_paper_id": "0704.0068",
+        "original_title": "A Note About the {Ki(z)} Functions"
+    },
+    {
+        "query": "How does this paper resolve the open question about the differential transcendency of the $K_i(z)$ functions?",
+        "correct_paper_id": "0704.0068",
+        "original_title": "A Note About the {Ki(z)} Functions"
+    },
+    {
+        "query": "I am a graduate student interested in the differential transcendency of $K_i(z)$ functions\u2014can anyone recommend a mentor or research group working in this area?",
+        "correct_paper_id": "0704.0068",
+        "original_title": "A Note About the {Ki(z)} Functions"
+    },
+    {
+        "query": "What are the precise spectral gap conditions required to lift a finite\u2011dimensional invariant subspace of a sheaf cohomology group to a unique invariant current in the preceding sheaf, as established in the main theorem of this paper?",
+        "correct_paper_id": "0704.0069",
+        "original_title": "Dynamical Objects for Cohomologically Expanding Maps"
+    },
+    {
+        "query": "I'm looking for a research mentor who works on constructing invariant currents for non\u2011invertible smooth or holomorphic maps using sheaf cohomology techniques.",
+        "correct_paper_id": "0704.0069",
+        "original_title": "Dynamical Objects for Cohomologically Expanding Maps"
+    },
+    {
+        "query": "How does the analytical framework presented in this paper derive the exact relationship between the difference of the two dipole transition frequencies and the oscillation of the persistent current in a narrow two-electron quantum ring?",
+        "correct_paper_id": "0704.0070",
+        "original_title": "Coincidence of the oscillations in the dipole transition and in the\n  persistent current of narrow quantum rings with two electrons"
+    },
+    {
+        "query": "I am researching Aharonov\u2013Bohm oscillations in two-electron quantum rings and need guidance on analytical methods for dipole transitions and persistent currents\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0070",
+        "original_title": "Coincidence of the oscillations in the dipole transition and in the\n  persistent current of narrow quantum rings with two electrons"
+    },
+    {
+        "query": "What statistical model does the paper use to quantify typological similarity between language pairs from the World Atlas of Language Structures?",
+        "correct_paper_id": "0704.0071",
+        "original_title": "Pairwise comparisons of typological profiles (of languages)"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in computational typology and pairwise language comparison methods.",
+        "correct_paper_id": "0704.0071",
+        "original_title": "Pairwise comparisons of typological profiles (of languages)"
+    },
+    {
+        "query": "What is the iterative decomposition procedure for nonlinear operators described in the paper, and how does it lead to a first-order linear PDE for the first integral when the original PDE is linear in its highest derivatives?",
+        "correct_paper_id": "0704.0072",
+        "original_title": "The decomposition method and Maple procedure for finding first integrals\n  of nonlinear PDEs of any order with any number of independent variables"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in automatic solution of nonlinear PDEs; can you recommend a mentor or research group that specializes in decomposition methods and Maple implementations for finding first integrals?",
+        "correct_paper_id": "0704.0072",
+        "original_title": "The decomposition method and Maple procedure for finding first integrals\n  of nonlinear PDEs of any order with any number of independent variables"
+    },
+    {
+        "query": "What curvature condition on a compact K\u00e4hler manifold ensures the injectivity of the cohomology maps in Koll\u00e1r's theorem via harmonic forms on a Zariski open set?",
+        "correct_paper_id": "0704.0073",
+        "original_title": "A transcendental approach to Koll\\'ar's injectivity theorem"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in analytic approaches to Koll\u00e1r\u2019s injectivity theorem\u2014who can guide me through the harmonic form techniques on complete K\u00e4hler metrics?",
+        "correct_paper_id": "0704.0073",
+        "original_title": "A transcendental approach to Koll\\'ar's injectivity theorem"
+    },
+    {
+        "query": "What are the specific parameter values and cutoff schemes employed in the $^3P_0$ model calculations for the strong decay widths of S-wave, P-wave, D-wave, and radially excited charmed baryons presented in this study?",
+        "correct_paper_id": "0704.0075",
+        "original_title": "Strong decays of charmed baryons"
+    },
+    {
+        "query": "I\u2019m studying charmed baryon spectroscopy and need a mentor who specializes in applying the $^3P_0$ model to strong decay calculations of excited charmed baryons.",
+        "correct_paper_id": "0704.0075",
+        "original_title": "Strong decays of charmed baryons"
+    },
+    {
+        "query": "What specific experimental technique is employed in this paper to isolate CP\u2011violating asymmetries in B\u2011meson decays?",
+        "correct_paper_id": "0704.0076",
+        "original_title": "CP violation in beauty decays"
+    },
+    {
+        "query": "I\u2019m a grad student interested in CP violation in beauty decays\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0076",
+        "original_title": "CP violation in beauty decays"
+    },
+    {
+        "query": "What is the precise mathematical formulation of the 'Fundamental Forces' framework introduced in the paper, and how does it modify the Einstein field equations to address the cosmological constant problem?",
+        "correct_paper_id": "0704.0077",
+        "original_title": "Universal Forces and the Dark Energy Problem"
+    },
+    {
+        "query": "I'm looking for a research mentor who works on novel theoretical approaches to dark energy that involve redefining fundamental forces and spacetime geometry.",
+        "correct_paper_id": "0704.0077",
+        "original_title": "Universal Forces and the Dark Energy Problem"
+    },
+    {
+        "query": "What is the explicit construction of the gauge-invariant perturbation variables for matched spacetimes with background symmetries as introduced in this paper?",
+        "correct_paper_id": "0704.0078",
+        "original_title": "Linear perturbations of matched spacetimes: the gauge problem and\n  background symmetries"
+    },
+    {
+        "query": "I\u2019m looking for guidance on studying linear perturbations of matched spacetimes with gauge issues and background symmetries\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0078",
+        "original_title": "Linear perturbations of matched spacetimes: the gauge problem and\n  background symmetries"
+    },
+    {
+        "query": "What specific functional form of the cluster mass-loss rate, derived from the paper\u2019s two-body relaxation model, is required to reproduce the observed dependence of the globular cluster mass function turnover mass on half-mass density?",
+        "correct_paper_id": "0704.0080",
+        "original_title": "Shaping the Globular Cluster Mass Function by Stellar-Dynamical\n  Evaporation"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who specializes in modeling globular cluster evolution through stellar-dynamical evaporation and its impact on the mass function.",
+        "correct_paper_id": "0704.0080",
+        "original_title": "Shaping the Globular Cluster Mass Function by Stellar-Dynamical\n  Evaporation"
+    },
+    {
+        "query": "What explicit twist elements are constructed for the Abelian and Jordanian deformations corresponding to Zakrzewski's r-matrices in the D=4 Poincar\u00e9 algebra?",
+        "correct_paper_id": "0704.0081",
+        "original_title": "Quantum Deformations of Relativistic Symmetries"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who specializes in quantum deformations of relativistic symmetries, particularly the twisted deformations of the Poincar\u00e9 algebra.",
+        "correct_paper_id": "0704.0081",
+        "original_title": "Quantum Deformations of Relativistic Symmetries"
+    },
+    {
+        "query": "What is the explicit form of the one-soliton solution for the F=1 spinor BEC with a finite background derived via the inverse scattering method for nonvanishing boundary conditions?",
+        "correct_paper_id": "0704.0082",
+        "original_title": "Matter-Wave Bright Solitons with a Finite Background in Spinor\n  Bose-Einstein Condensates"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in studying bright solitons with finite background in spinor Bose\u2011Einstein condensates\u2014who should I contact?",
+        "correct_paper_id": "0704.0082",
+        "original_title": "Matter-Wave Bright Solitons with a Finite Background in Spinor\n  Bose-Einstein Condensates"
+    },
+    {
+        "query": "What are the explicit conditions on the Euclidean path integral measure that lead to a uniform distribution over true physical phase space variables in the microcanonical ensemble described in the paper?",
+        "correct_paper_id": "0704.0083",
+        "original_title": "Why there is something rather than nothing (out of everything)?"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in quantum cosmology and the role of cosmological instantons in constraining the string landscape\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0083",
+        "original_title": "Why there is something rather than nothing (out of everything)?"
+    },
+    {
+        "query": "What is the exact form of the Lagrangian-coordinate transformation that yields the one-dimensional family of density-singularity solutions in the ideal granular hydrodynamics equations?",
+        "correct_paper_id": "0704.0084",
+        "original_title": "Formation of density singularities in ideal hydrodynamics of freely\n  cooling inelastic gases: a family of exact solutions"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on exact analytical solutions for clustering in freely cooling inelastic gases using Lagrangian hydrodynamics.",
+        "correct_paper_id": "0704.0084",
+        "original_title": "Formation of density singularities in ideal hydrodynamics of freely\n  cooling inelastic gases: a family of exact solutions"
+    },
+    {
+        "query": "What is the explicit form of the field redefinition that renders the CSFT equations of motion quadratic for off-shell pp-wave backgrounds with flat transverse space and transverse-coordinate\u2013independent dilaton?",
+        "correct_paper_id": "0704.0085",
+        "original_title": "A Universality in PP-Waves"
+    },
+    {
+        "query": "I'm looking for a research mentor who specializes in universality properties of pp-wave solutions in covariant field theories and their applications to bosonic string theory and closed string field theory.",
+        "correct_paper_id": "0704.0085",
+        "original_title": "A Universality in PP-Waves"
+    },
+    {
+        "query": "What is the precise localization property that underlies the functional limit theorem for the cluster count $K_n(t)$ in the one-dimensional stochastic gas model?",
+        "correct_paper_id": "0704.0086",
+        "original_title": "Clustering in a stochastic model of one-dimensional gas"
+    },
+    {
+        "query": "I\u2019m studying particle aggregation in one-dimensional systems\u2014who can mentor me on the stochastic clustering model with conservation laws?",
+        "correct_paper_id": "0704.0086",
+        "original_title": "Clustering in a stochastic model of one-dimensional gas"
+    },
+    {
+        "query": "What experimental setup and laser parameters were used to generate the long\u2011term photonic flame effect in artificial opal samples at 77\u202fK?",
+        "correct_paper_id": "0704.0088",
+        "original_title": "Some new experimental photonic flame effect features"
+    },
+    {
+        "query": "I'm looking for a research mentor who studies laser\u2011induced photonic flame effects in opal photonic crystals.",
+        "correct_paper_id": "0704.0088",
+        "original_title": "Some new experimental photonic flame effect features"
+    },
+    {
+        "query": "What is the explicit form of the kernel estimator used to derive the conditional average estimator for nonparametric regression in this paper?",
+        "correct_paper_id": "0704.0089",
+        "original_title": "A general approach to statistical modeling of physical laws:\n  nonparametric regression"
+    },
+    {
+        "query": "I'm looking for a mentor who specializes in nonparametric regression for modeling physical laws with noisy chaotic data.",
+        "correct_paper_id": "0704.0089",
+        "original_title": "A general approach to statistical modeling of physical laws:\n  nonparametric regression"
+    },
+    {
+        "query": "What is the specific role of the inner shell in sampling cost distributions within the ROPS framework, and how does it interact with the PATHTREE option development?",
+        "correct_paper_id": "0704.0090",
+        "original_title": "Real Options for Project Schedules (ROPS)"
+    },
+    {
+        "query": "I\u2019m a project manager interested in learning how to apply real options analysis to optimize multi\u2011project schedules\u2014who can mentor me in this niche?",
+        "correct_paper_id": "0704.0090",
+        "original_title": "Real Options for Project Schedules (ROPS)"
+    },
+    {
+        "query": "How does the paper's combination of combinatorial group theory and small cancellation over relatively hyperbolic groups yield a finitely generated torsion\u2011free group with only finitely many conjugacy classes?",
+        "correct_paper_id": "0704.0091",
+        "original_title": "Groups with finitely many conjugacy classes and their automorphisms"
+    },
+    {
+        "query": "I\u2019m looking for a research mentor who works on constructing groups with finitely many conjugacy classes and studying their outer automorphism groups.",
+        "correct_paper_id": "0704.0091",
+        "original_title": "Groups with finitely many conjugacy classes and their automorphisms"
+    },
+    {
+        "query": "What is the explicit form of the overlap Dirac operator with chemical potential used to compute the energy density in this study?",
+        "correct_paper_id": "0704.0092",
+        "original_title": "Energy density for chiral lattice fermions with chemical potential"
+    },
+    {
+        "query": "How can I find a mentor experienced in implementing overlap fermions at finite density for lattice QCD simulations?",
+        "correct_paper_id": "0704.0092",
+        "original_title": "Energy density for chiral lattice fermions with chemical potential"
+    },
+    {
+        "query": "What detailed simulation parameters and ARPES spectral fitting procedures does this study employ to distinguish electron-phonon self-energy contributions from other many-body effects in high\u2011Tc cuprates?",
+        "correct_paper_id": "0704.0093",
+        "original_title": "Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved\n  Photoemission Spectroscopy"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying electron\u2011phonon interactions in strongly correlated oxides\u2014who could mentor me in using ARPES to analyze self\u2011energy effects?",
+        "correct_paper_id": "0704.0093",
+        "original_title": "Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved\n  Photoemission Spectroscopy"
+    },
+    {
+        "query": "What semi\u2011analytical method does the paper use to constrain the dark matter mass from Local Group timing arguments in the Bullet Cluster, and how are the potential models calibrated to the lensing data?",
+        "correct_paper_id": "0704.0094",
+        "original_title": "Timing and Lensing of the Colliding Bullet Clusters: barely enough time\n  and gravity to accelerate the bullet"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in studying dark matter dynamics in merging galaxy clusters\u2014who would be a good mentor to guide me in this niche?",
+        "correct_paper_id": "0704.0094",
+        "original_title": "Timing and Lensing of the Colliding Bullet Clusters: barely enough time\n  and gravity to accelerate the bullet"
+    },
+    {
+        "query": "What is the precise construction of the Lie shadow S for a locally compact group G of polynomial growth, and how does the paper prove that G is weakly commensurable to S using the generalized Pansu theorem?",
+        "correct_paper_id": "0704.0095",
+        "original_title": "Geometry of Locally Compact Groups of Polynomial Growth and Shape of\n  Large Balls"
+    },
+    {
+        "query": "I\u2019m looking for a PhD advisor who specializes in the geometry of locally compact groups of polynomial growth and the asymptotic shape of large balls\u2014who would be a good mentor in this niche?",
+        "correct_paper_id": "0704.0095",
+        "original_title": "Geometry of Locally Compact Groups of Polynomial Growth and Shape of\n  Large Balls"
+    },
+    {
+        "query": "What is the explicit construction of the 248-dimensional Lie algebra obtained from the symmetry algebra of a system of five trivial ODEs of order 44, and how does the paper derive its representation via a system of seven trivial ODEs of order 28?",
+        "correct_paper_id": "0704.0096",
+        "original_title": "Much ado about 248"
+    },
+    {
+        "query": "I'm looking for a research mentor who specializes in high-dimensional Lie algebras arising from symmetry analysis of trivial high-order ODE systems\u2014specifically the 248-dimensional case studied in the paper titled 'Much ado about 248'.",
+        "correct_paper_id": "0704.0096",
+        "original_title": "Much ado about 248"
+    },
+    {
+        "query": "What are the precise conditions on the modular tensor categories that guarantee complete rationality in the operator algebraic framework described in this paper?",
+        "correct_paper_id": "0704.0097",
+        "original_title": "Conformal Field Theory and Operator Algebras"
+    },
+    {
+        "query": "I\u2019m looking for a PhD advisor who specializes in the operator algebraic approach to conformal field theory using representation theory.",
+        "correct_paper_id": "0704.0097",
+        "original_title": "Conformal Field Theory and Operator Algebras"
+    },
+    {
+        "query": "What is the exact replica-symmetric expression for the free energy of a regular sparse CDMA system derived in the paper?",
+        "correct_paper_id": "0704.0098",
+        "original_title": "Sparsely-spread CDMA - a statistical mechanics based analysis"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in applying statistical mechanics to analyze sparse CDMA systems for maximum likelihood decoding.",
+        "correct_paper_id": "0704.0098",
+        "original_title": "Sparsely-spread CDMA - a statistical mechanics based analysis"
+    },
+    {
+        "query": "What is the precise statement and proof of the Y-dominated majorisation property introduced in the paper, and how does it strengthen the Bourin\u2013Uchiyama and Kosem inequalities for concave and convex functions?",
+        "correct_paper_id": "0704.0099",
+        "original_title": "On Ando's inequalities for convex and concave functions"
+    },
+    {
+        "query": "I\u2019m a graduate student interested in Ando\u2019s inequalities for operator monotone functions and their extensions to concave/convex functions; who could mentor me in this niche area?",
+        "correct_paper_id": "0704.0099",
+        "original_title": "On Ando's inequalities for convex and concave functions"
+    },
+    {
+        "query": "What specific Morse-theoretic handle attachment constraints determine the allowed topological transitions of event horizons in (n+1)-dimensional black hole spacetimes?",
+        "correct_paper_id": "0704.0100",
+        "original_title": "Topology Change of Black Holes"
+    },
+    {
+        "query": "I\u2019m looking for a mentor who specializes in using Morse theory to study topology change in black hole horizons.",
+        "correct_paper_id": "0704.0100",
+        "original_title": "Topology Change of Black Holes"
+    }
+]
