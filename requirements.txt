@@ -1,0 +1,23 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+gradio
+requests
+python-dotenv
+sseclient-py
+
+# Agents and LLM
+agents
+openai
+
+# RAG and Vector DB
+chromadb
+sentence-transformers
+torch
+numpy
+
+# Others
+pydantic
+aiohttp
+pytest
+jupyterlab
