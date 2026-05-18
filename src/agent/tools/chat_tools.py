@@ -37,6 +37,7 @@ def build_chat_tools(*, message_id: str, session_id: str, arxiv_server):
     }
 
 
+
 def _build_search_arxiv_tool(*, message_id: str, session_id: str, arxiv_server):
     @agents.function_tool(name_override="search_arxiv_internet")
     async def tool_search_arxiv(
@@ -47,7 +48,10 @@ def _build_search_arxiv_tool(*, message_id: str, session_id: str, arxiv_server):
         categories: list[str] | None = None,
         sort_by: str = "relevance",
     ) -> str:
-        """Searches ArXiv for papers."""
+        """Searches ArXiv for papers.
+        IMPORTANT: Your tool call name must be purely 'search_arxiv_internet'. 
+        Do not append any extra characters or tokens like '<|channel|>commentary' to the tool name.
+        """
         try:
             if isinstance(categories, str):
                 categories = [categories]

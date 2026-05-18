@@ -2,6 +2,22 @@ import json
 import os
 import uuid
 
+# --- MONKEY PATCH ---
+import agents._tool_identity
+original_get_tool_call_name = agents._tool_identity.get_tool_call_name
+def patch_get_tool_call_name(tool_call):
+    name = original_get_tool_call_name(tool_call)
+    if name and "<|channel|>" in name:
+        name = name.split("<|channel|>")[0]
+        # Also clean up the actual tool_call object so the SDK doesn't error later logging it
+        if hasattr(tool_call, "name"):
+            tool_call.name = name
+        elif isinstance(tool_call, dict) and "name" in tool_call:
+            tool_call["name"] = name
+    return name
+agents._tool_identity.get_tool_call_name = patch_get_tool_call_name
+# --------------------
+
 from agents import (
     ItemHelpers,
     Runner,
@@ -42,6 +58,24 @@ async def chat_stream(request: ChatRequest):
         yield {"event": "start", "data": json.dumps({"message_id": message_id})}
 
         client = AsyncOpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
+        
+        # --- MONKEY PATCH OPENAI CLIENT ---
+        original_create = client.chat.completions.create
+        async def patched_create(*args, **kwargs):
+            response = await original_create(*args, **kwargs)
+            if kwargs.get("stream"):
+                async def stream_wrapper():
+                    async for chunk in response:
+                        if chunk.choices and chunk.choices[0].delta and chunk.choices[0].delta.tool_calls:
+                            for tc in chunk.choices[0].delta.tool_calls:
+                                if tc.function and tc.function.name and "<|channel|>" in tc.function.name:
+                                    tc.function.name = tc.function.name.split("<|channel|>")[0]
+                        yield chunk
+                return stream_wrapper()
+            return response
+        client.chat.completions.create = patched_create
+        # ----------------------------------
+
         set_default_openai_client(client)
         set_tracing_disabled(True)
 

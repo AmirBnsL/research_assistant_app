@@ -29,10 +29,21 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configuration
-Create a `.env` file in the root directory:
+Create a `.env` file in the root directory. At minimum, it should define the OpenAI key and endpoint used by the app:
 ```env
 OPENAI_API_KEY=your_api_key
-OPENAI_BASE_URL=https://api.openai.com/v1 # or your proxy URL
+OPENAI_BASE_URL=https://api.openai.com/v1
+```
+
+If you are using an OpenRouter-compatible proxy endpoint, set `OPENAI_BASE_URL` accordingly, for example:
+```env
+OPENAI_BASE_URL=https://agentrouter.org/api/v1
+```
+
+Optional values used by local development:
+```env
+DEBUG=true
+PYTHONPATH=.
 ```
 
 ### 4. Running the Application
