@@ -37,6 +37,29 @@ from src.api.database import Evidence, SessionLocal
 
 load_dotenv()
 
+def ensure_session(session_id):
+    if isinstance(session_id, str) and session_id and "<function" not in session_id:
+        return session_id
+    return str(uuid.uuid4())
+
+def apply_final_message(content, streamed, final, stream_at=None):
+    """Keep streamed tokens, and use the final message without writing it twice."""
+    if not final:
+        return content
+    if streamed and stream_at is not None:
+        end = stream_at + len(streamed)
+        if content[stream_at:end] == streamed:
+            if streamed == final:
+                return content
+            return content[:stream_at] + final + content[end:]
+        if content.endswith(streamed):
+            if streamed == final:
+                return content
+            return content[: -len(streamed)] + final
+    if content.endswith(final):
+        return content
+    return content + final
+
 async def chat_stream(message, history, session_id):
     if callable(session_id):
         try:
@@ -45,17 +68,22 @@ async def chat_stream(message, history, session_id):
             session_id = str(uuid.uuid4())
     if not session_id or not isinstance(session_id, str) or "<function" in str(session_id):
         session_id = str(uuid.uuid4())
-        
+
     # In Gradio 6 older format without type="messages", we just use list
+    history = list(history or [])
+    if not message or not str(message).strip():
+        yield "", history, session_id
+        return
+
     history.append({"role": "user", "content": message})
     history.append({"role": "assistant", "content": ""})
-    yield history, session_id
+    yield "", history, session_id
 
     message_id = str(uuid.uuid4())
     api_key = os.environ.get("OPENAI_API_KEY")
     base_url = os.environ.get("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
     print(f"Using api key: {'Yes' if api_key else 'No'}")
-    client = AsyncOpenAI(base_url='https://openrouter.ai/api/v1', api_key=api_key)
+    client = AsyncOpenAI(base_url=base_url, api_key=api_key)
     
     # --- MONKEY PATCH OPENAI CLIENT ---
     original_create = client.chat.completions.create
@@ -111,13 +139,18 @@ async def chat_stream(message, history, session_id):
             agent, input=message, session=chat_session
         )
 
+        streamed = ""
+        stream_at = None
         async for event in result.stream_events():
             if event.type == "raw_response_event" and isinstance(
                 event.data, ResponseTextDeltaEvent
             ):
                 if event.data.delta:
+                    if stream_at is None:
+                        stream_at = len(history[-1]["content"])
+                    streamed += event.data.delta
                     history[-1]["content"] += event.data.delta
-                    yield history, session_id
+                    yield "", history, session_id
 
             elif event.type == "run_item_stream_event":
                 if event.name == "tool_called":
@@ -125,23 +158,32 @@ async def chat_stream(message, history, session_id):
                         f"\n> *⚙️ Agent Action: Calling tool `{event.item.tool_name}`*\n\n"
                     )
                     history[-1]["content"] += thought_msg
-                    yield history, session_id
+                    yield "", history, session_id
 
                 elif event.name == "tool_output":
                     output_str = str(event.item.output)[:500]
                     if "An error occurred" in output_str:
                         history[-1]["content"] += f"\n> ⚠️ *Tool Error: {output_str}*\n\n"
-                    yield history, session_id
+                    yield "", history, session_id
 
                 elif event.name == "message_output_created":
                     txt = ItemHelpers.text_message_output(event.item)
                     if txt:
-                        history[-1]["content"] += txt
-                        yield history, session_id
+                        updated = apply_final_message(
+                            history[-1]["content"], streamed, txt, stream_at
+                        )
+                        streamed = ""
+                        stream_at = None
+                        if updated != history[-1]["content"]:
+                            history[-1]["content"] = updated
+                            yield "", history, session_id
+                    else:
+                        streamed = ""
+                        stream_at = None
 
     except Exception as e:
         history[-1]["content"] += f"\n\n**Error:** {str(e)}"
-        yield history, session_id
+        yield "", history, session_id
     finally:
         await arxiv_server.cleanup()
 
@@ -191,7 +233,7 @@ def fetch_evidence(session_id):
 # Gradio UI Layout
 # ==========================================
 with gr.Blocks() as demo:
-    session_state = gr.State(str(uuid.uuid4()))
+    session_state = gr.State(None)
 
     gr.Markdown("# 🧠 Agentic arXiv RAG")
     gr.Markdown(
@@ -218,13 +260,13 @@ with gr.Blocks() as demo:
     msg_submit_event = msg_input.submit(
         chat_stream,
         inputs=[msg_input, chatbot, session_state],
-        outputs=[chatbot, session_state],
+        outputs=[msg_input, chatbot, session_state],
     )
 
     btn_submit_event = submit_btn.click(
         chat_stream,
         inputs=[msg_input, chatbot, session_state],
-        outputs=[chatbot, session_state],
+        outputs=[msg_input, chatbot, session_state],
     )
 
     def clear_input():
@@ -240,6 +282,8 @@ with gr.Blocks() as demo:
     evidence_btn.click(
         fetch_evidence, inputs=[session_state], outputs=[evidence_display]
     )
+
+    demo.load(ensure_session, inputs=[session_state], outputs=[session_state])
 
 if __name__ == "__main__":
     print("Launching Gradio interface...")
